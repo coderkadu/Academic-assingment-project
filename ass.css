@@ -1,0 +1,37 @@
+body{
+
+    background-color: aquamarine;
+    
+}
+
+h1{
+
+    text-align: center;
+    padding-bottom: 0vh;
+}
+h2{
+
+    text-align: center;
+}
+
+h3{
+
+    text-align: center;
+}
+
+
+h4{
+    font-size: x-large;
+}
+
+ol li{
+    font-size: x-large;
+    font-style: italic;
+    
+}
+
+ul li{
+ 
+    font-size: x-large;
+    font-style: italic;
+}
